@@ -1,6 +1,6 @@
 # SD105-Transit API Practice Project
 
-For this assignment, you will be building a bus schedule search by making use of the [Winnipeg Transit Data API](https://api.winnipegtransit.com/). Sign-up for free access [here](https://api.winnipegtransit.com/).
+For this project, you will be building a bus schedule search by making use of the [Winnipeg Transit Data API](https://api.winnipegtransit.com/). Sign-up for free access [here](https://api.winnipegtransit.com/).
 
 Next, checkout this [demo of the project](https://mittnexbuss.web.app/).
 
