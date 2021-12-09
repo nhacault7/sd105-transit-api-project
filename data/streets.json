@@ -1,0 +1,64 @@
+{
+  "streets": [
+    {
+      "key": 2903,
+      "name": "Portage Avenue",
+      "type": "Avenue"
+    },
+    {
+      "key": 50000161,
+      "name": "Century Ramp NB to Portage WB"
+    },
+    {
+      "key": 50000163,
+      "name": "Portage Ramp EB to St James Bridge"
+    },
+    {
+      "key": 50000160,
+      "name": "Portage Ramp WB to Century NB"
+    },
+    {
+      "key": 50000162,
+      "name": "Portage Ramp WB to Century SB"
+    },
+    {
+      "key": 50000189,
+      "name": "Portage Ramp EB to PTH 100 SB"
+    },
+    {
+      "key": 50000184,
+      "name": "Portage Ramp EB to PTH 101 NB"
+    },
+    {
+      "key": 50000188,
+      "name": "Portage Ramp WB to PTH 100 SB"
+    },
+    {
+      "key": 2904,
+      "name": "Portage Avenue",
+      "type": "Avenue",
+      "leg": "East"
+    },
+    {
+      "key": 50000187,
+      "name": "PTH 101 Ramp SB to Portage WB"
+    },
+    {
+      "key": 50000190,
+      "name": "PTH 101 Ramp SB to Portage EB"
+    },
+    {
+      "key": 50000186,
+      "name": "PTH 100 Ramp NB to Portage WB"
+    },
+    {
+      "key": 50000183,
+      "name": "PTH 100 Ramp NB to Portage EB"
+    },
+    {
+      "key": 50000185,
+      "name": "Portage Ramp WB to PTH 101 NB"
+    }
+  ],
+  "query-time": "2021-12-09T17:01:32"
+}

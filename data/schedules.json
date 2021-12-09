@@ -1,0 +1,242 @@
+{
+  "stop-schedule": {
+    "stop": {
+      "key": 10064,
+      "name": "Northbound Osborne at Glasgow",
+      "number": 10064,
+      "direction": "Northbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2715,
+        "name": "Osborne Street",
+        "type": "Street"
+      },
+      "cross-street": {
+        "key": 1486,
+        "name": "Glasgow Avenue",
+        "type": "Avenue"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633838,
+          "y": 5525742
+        },
+        "geographic": {
+          "latitude": "49.86912",
+          "longitude": "-97.1375"
+        }
+      }
+    },
+    "route-schedules": [
+      {
+        "route": {
+          "key": 16,
+          "number": 16,
+          "name": "Route 16 Selkirk-Osborne",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 16,
+          "badge-style": {
+            "class-names": {
+              "class-name": [
+                "badge-label",
+                "regular"
+              ]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18300888-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T17:12:47",
+                "estimated": "2021-12-09T17:19:54"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T17:12:47",
+                "estimated": "2021-12-09T17:19:54"
+              }
+            },
+            "variant": {
+              "key": "16-0-B",
+              "name": "Selkirk-Osborne to Tyndall Park via Burrows"
+            },
+            "bus": {
+              "key": 835,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300889-52",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T17:22:47",
+                "estimated": "2021-12-09T17:35:06"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T17:22:47",
+                "estimated": "2021-12-09T17:35:06"
+              }
+            },
+            "variant": {
+              "key": "16-0-M",
+              "name": "Selkirk-Osborne to Tyndall Park via Manitoba"
+            },
+            "bus": {
+              "key": 863,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300890-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T17:35:47",
+                "estimated": "2021-12-09T17:35:47"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T17:35:47",
+                "estimated": "2021-12-09T17:35:47"
+              }
+            },
+            "variant": {
+              "key": "16-0-B",
+              "name": "Selkirk-Osborne to Tyndall Park via Burrows"
+            },
+            "bus": {
+              "key": 586,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300891-52",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T17:48:47",
+                "estimated": "2021-12-09T17:48:47"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T17:48:47",
+                "estimated": "2021-12-09T17:48:47"
+              }
+            },
+            "variant": {
+              "key": "16-0-M",
+              "name": "Selkirk-Osborne to Tyndall Park via Manitoba"
+            },
+            "bus": {
+              "key": 171,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300845-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T18:01:47",
+                "estimated": "2021-12-09T18:01:47"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T18:01:47",
+                "estimated": "2021-12-09T18:01:47"
+              }
+            },
+            "variant": {
+              "key": "16-0-B",
+              "name": "Selkirk-Osborne to Tyndall Park via Burrows"
+            },
+            "bus": {
+              "key": 815,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300844-52",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T18:16:47",
+                "estimated": "2021-12-09T18:16:47"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T18:16:47",
+                "estimated": "2021-12-09T18:16:47"
+              }
+            },
+            "variant": {
+              "key": "16-0-M",
+              "name": "Selkirk-Osborne to Tyndall Park via Manitoba"
+            },
+            "bus": {
+              "key": 852,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300843-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T18:33:47",
+                "estimated": "2021-12-09T18:33:47"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T18:33:47",
+                "estimated": "2021-12-09T18:33:47"
+              }
+            },
+            "variant": {
+              "key": "16-0-B",
+              "name": "Selkirk-Osborne to Tyndall Park via Burrows"
+            },
+            "bus": {
+              "key": 169,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300846-52",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-09T18:55:04",
+                "estimated": "2021-12-09T18:55:04"
+              },
+              "departure": {
+                "scheduled": "2021-12-09T18:55:04",
+                "estimated": "2021-12-09T18:55:04"
+              }
+            },
+            "variant": {
+              "key": "16-0-M",
+              "name": "Selkirk-Osborne to Tyndall Park via Manitoba"
+            },
+            "bus": {
+              "key": 813,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "query-time": "2021-12-09T17:09:58"
+}
