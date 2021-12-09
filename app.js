@@ -1,5 +1,6 @@
 const streetsEl = document.querySelector('.streets');
-const searchInput = document.forms[0];
+const searchForm = document.forms[0];
+const tableBodyEl = document.querySelector('tbody');
 
 // https://api.winnipegtransit.com/v3/streets.json?api-key=IC_fN0dq-nHM0fG1VqV1&name=portage
 const apiKey = 'IC_fN0dq-nHM0fG1VqV1';
@@ -18,8 +19,12 @@ const getStops = (streetKey) => {
     .then((data) => data.stops);
 };
 
-const getScheduledStops = (stopKey) => {
+// https://api.winnipegtransit.com/v3/stops/10541/schedule.json?api-key=IC_fN0dq-nHM0fG1VqV1
+const getStopSchedule = (stopKey) => {
   // fill this out to fetch from the stop schedules api
+  return fetch(`${baseURL}stops/${stopKey}/schedule.json?api-key=${apiKey}`)
+    .then((response) => response.json())
+    .then((data) => data['stop-schedule']);
 };
 
 const handleSearchInput = (e) => {
@@ -38,16 +43,61 @@ const handleSearchInput = (e) => {
   }
 };
 
+const formatTime = (dateString) => {
+  return dayjs(dateString).format('HH:mm A');
+};
+
+const insertScheduleRowHTML = (scheduleObj) => {
+  const { stopName, crossStreet, direction, busNum, time } = scheduleObj;
+  tableBodyEl.insertAdjacentHTML(
+    'beforeend',
+    `<tr>
+      <td>${stopName}</td>
+      <td>${crossStreet}</td>
+      <td>${direction}</td>
+      <td>${busNum}</td>
+      <td>${formatTime(time)}</td>
+    </tr>
+  `
+  );
+};
+
+const createScheduleObj = (schedule, index) => {
+  return {
+    stopName: schedule.stop.name,
+    crossStreet: schedule.stop['cross-street'].name,
+    direction: schedule.stop.direction,
+    busNum: schedule['route-schedules'][index].route.number,
+    time: schedule['route-schedules'][index]['scheduled-stops'][0].times
+      .departure.estimated,
+  };
+};
+
 const handleStreetClick = (e) => {
   const streetKey = e.target.dataset.streetKey;
   getStops(streetKey).then((stops) => {
     // loop through the stops
-    // query the schedules api (passing in the stop key)
-    // collect the responses into an array of promises
+    const schedules = [];
+    stops.forEach((stop) => {
+      // query the schedules api (passing in the stop key)
+      // collect the responses into an array of promises
+      schedules.push(getStopSchedule(stop.key));
+    });
     // use Promise.all to render the table once all the queries
-    // build the HTML for rendering the schedule
+    Promise.all(schedules).then((stopSchedule) => {
+      // clear the schedule table
+      tableBodyEl.innerHTML = '';
+      // loop through the stopSchedule array
+      stopSchedule.forEach((schedule) => {
+        // create the object scheduleObj
+        schedule['route-schedules'].forEach((route, index) => {
+          // call insertScheduleRowHTML to render the row
+          insertScheduleRowHTML(createScheduleObj(schedule, index));
+        });
+      });
+    });
   });
 };
 
-searchInput.addEventListener('submit', handleSearchInput);
+searchForm.addEventListener('submit', handleSearchInput);
 streetsEl.addEventListener('click', handleStreetClick);
