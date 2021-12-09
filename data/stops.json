@@ -1,0 +1,3645 @@
+{
+  "stops": [
+    {
+      "key": 10131,
+      "name": "Westbound Portage at Dominion",
+      "number": 10131,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1066,
+        "name": "Dominion Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630873,
+          "y": 5527363
+        },
+        "geographic": {
+          "latitude": "49.88434",
+          "longitude": "-97.17819"
+        }
+      }
+    },
+    {
+      "key": 10162,
+      "name": "Westbound Portage at Sherburn",
+      "number": 10162,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3319,
+        "name": "Sherburn Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630987,
+          "y": 5527389
+        },
+        "geographic": {
+          "latitude": "49.88455",
+          "longitude": "-97.1766"
+        }
+      }
+    },
+    {
+      "key": 10527,
+      "name": "Westbound Portage at Carlton (Portage Place)",
+      "number": 10527,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 645,
+        "name": "Carlton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633183,
+          "y": 5528379
+        },
+        "geographic": {
+          "latitude": "49.89297",
+          "longitude": "-97.1457"
+        }
+      }
+    },
+    {
+      "key": 10541,
+      "name": "Westbound Portage at Garry",
+      "number": 10541,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1437,
+        "name": "Garry Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633523,
+          "y": 5528584
+        },
+        "geographic": {
+          "latitude": "49.89473",
+          "longitude": "-97.1409"
+        }
+      }
+    },
+    {
+      "key": 10542,
+      "name": "Westbound Portage at Donald (Canada Life Centre)",
+      "number": 10542,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1070,
+        "name": "Donald Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633358,
+          "y": 5528485
+        },
+        "geographic": {
+          "latitude": "49.89388",
+          "longitude": "-97.14323"
+        }
+      }
+    },
+    {
+      "key": 10543,
+      "name": "Westbound Portage at Edmonton (Portage Place)",
+      "number": 10543,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1201,
+        "name": "Edmonton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633089,
+          "y": 5528322
+        },
+        "geographic": {
+          "latitude": "49.89248",
+          "longitude": "-97.14703"
+        }
+      }
+    },
+    {
+      "key": 10545,
+      "name": "Westbound Portage at Colony",
+      "number": 10545,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 825,
+        "name": "Colony Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632840,
+          "y": 5528176
+        },
+        "geographic": {
+          "latitude": "49.89122",
+          "longitude": "-97.15054"
+        }
+      }
+    },
+    {
+      "key": 10546,
+      "name": "Westbound Portage at Spence (U of W)",
+      "number": 10546,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3411,
+        "name": "Spence Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632607,
+          "y": 5528035
+        },
+        "geographic": {
+          "latitude": "49.89",
+          "longitude": "-97.15384"
+        }
+      }
+    },
+    {
+      "key": 10547,
+      "name": "Westbound Portage at Langside",
+      "number": 10547,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2075,
+        "name": "Langside Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632394,
+          "y": 5527934
+        },
+        "geographic": {
+          "latitude": "49.88914",
+          "longitude": "-97.15683"
+        }
+      }
+    },
+    {
+      "key": 10548,
+      "name": "Westbound Portage at Sherbrook",
+      "number": 10548,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3318,
+        "name": "Sherbrook Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632252,
+          "y": 5527869
+        },
+        "geographic": {
+          "latitude": "49.88859",
+          "longitude": "-97.15883"
+        }
+      }
+    },
+    {
+      "key": 10549,
+      "name": "Westbound Portage at Maryland",
+      "number": 10549,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2407,
+        "name": "McGee Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632080,
+          "y": 5527793
+        },
+        "geographic": {
+          "latitude": "49.88794",
+          "longitude": "-97.16125"
+        }
+      }
+    },
+    {
+      "key": 10550,
+      "name": "Westbound Portage at Broadway",
+      "number": 10550,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3635,
+        "name": "Toronto Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631848,
+          "y": 5527691
+        },
+        "geographic": {
+          "latitude": "49.88708",
+          "longitude": "-97.16451"
+        }
+      }
+    },
+    {
+      "key": 10551,
+      "name": "Westbound Portage at Simcoe",
+      "number": 10551,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3350,
+        "name": "Simcoe Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631628,
+          "y": 5527594
+        },
+        "geographic": {
+          "latitude": "49.88625",
+          "longitude": "-97.16761"
+        }
+      }
+    },
+    {
+      "key": 10552,
+      "name": "Westbound Portage at Burnell",
+      "number": 10552,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 567,
+        "name": "Burnell Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631396,
+          "y": 5527488
+        },
+        "geographic": {
+          "latitude": "49.88535",
+          "longitude": "-97.17087"
+        }
+      }
+    },
+    {
+      "key": 10553,
+      "name": "Westbound Portage at Lipton",
+      "number": 10553,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2172,
+        "name": "Lipton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631207,
+          "y": 5527438
+        },
+        "geographic": {
+          "latitude": "49.88494",
+          "longitude": "-97.17352"
+        }
+      }
+    },
+    {
+      "key": 10555,
+      "name": "Westbound Portage at Minto",
+      "number": 10555,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2512,
+        "name": "Minto Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630722,
+          "y": 5527330
+        },
+        "geographic": {
+          "latitude": "49.88408",
+          "longitude": "-97.1803"
+        }
+      }
+    },
+    {
+      "key": 10556,
+      "name": "Westbound Portage at Wall",
+      "number": 10556,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2619,
+        "name": "Newman Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630499,
+          "y": 5527281
+        },
+        "geographic": {
+          "latitude": "49.88369",
+          "longitude": "-97.18342"
+        }
+      }
+    },
+    {
+      "key": 10557,
+      "name": "Westbound Portage at Clifton",
+      "number": 10557,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 795,
+        "name": "Clifton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630312,
+          "y": 5527230
+        },
+        "geographic": {
+          "latitude": "49.88327",
+          "longitude": "-97.18604"
+        }
+      }
+    },
+    {
+      "key": 10558,
+      "name": "Westbound Portage at Valour",
+      "number": 10558,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3705,
+        "name": "Valour Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630096,
+          "y": 5527159
+        },
+        "geographic": {
+          "latitude": "49.88268",
+          "longitude": "-97.18907"
+        }
+      }
+    },
+    {
+      "key": 10559,
+      "name": "Westbound Portage at Strathcona",
+      "number": 10559,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3508,
+        "name": "Strathcona Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629886,
+          "y": 5527093
+        },
+        "geographic": {
+          "latitude": "49.88213",
+          "longitude": "-97.19201"
+        }
+      }
+    },
+    {
+      "key": 10561,
+      "name": "Westbound Portage at Tylehurst (Polo Park)",
+      "number": 10561,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3681,
+        "name": "Tylehurst Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629377,
+          "y": 5526935
+        },
+        "geographic": {
+          "latitude": "49.88082",
+          "longitude": "-97.19915"
+        }
+      }
+    },
+    {
+      "key": 10562,
+      "name": "Eastbound Portage at Tylehurst (Polo Park)",
+      "number": 10562,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3681,
+        "name": "Tylehurst Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629348,
+          "y": 5526888
+        },
+        "geographic": {
+          "latitude": "49.8804",
+          "longitude": "-97.19957"
+        }
+      }
+    },
+    {
+      "key": 10563,
+      "name": "Eastbound Portage at St. John Ambulance",
+      "number": 10563,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 4482,
+        "name": "St John Ambulance Way",
+        "type": "Way"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629582,
+          "y": 5526964
+        },
+        "geographic": {
+          "latitude": "49.88104",
+          "longitude": "-97.19629"
+        }
+      }
+    },
+    {
+      "key": 10564,
+      "name": "Eastbound Portage at Raglan",
+      "number": 10564,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2972,
+        "name": "Raglan Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629959,
+          "y": 5527083
+        },
+        "geographic": {
+          "latitude": "49.88203",
+          "longitude": "-97.191"
+        }
+      }
+    },
+    {
+      "key": 10565,
+      "name": "Eastbound Portage at Craig",
+      "number": 10565,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 903,
+        "name": "Craig Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630038,
+          "y": 5527109
+        },
+        "geographic": {
+          "latitude": "49.88224",
+          "longitude": "-97.18989"
+        }
+      }
+    },
+    {
+      "key": 10566,
+      "name": "Eastbound Portage at Clifton",
+      "number": 10566,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 795,
+        "name": "Clifton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630266,
+          "y": 5527183
+        },
+        "geographic": {
+          "latitude": "49.88286",
+          "longitude": "-97.1867"
+        }
+      }
+    },
+    {
+      "key": 10567,
+      "name": "Eastbound Portage at Newman",
+      "number": 10567,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2619,
+        "name": "Newman Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630476,
+          "y": 5527243
+        },
+        "geographic": {
+          "latitude": "49.88335",
+          "longitude": "-97.18375"
+        }
+      }
+    },
+    {
+      "key": 10568,
+      "name": "Eastbound Portage at Sprague",
+      "number": 10568,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3416,
+        "name": "Sprague Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630648,
+          "y": 5527282
+        },
+        "geographic": {
+          "latitude": "49.88366",
+          "longitude": "-97.18135"
+        }
+      }
+    },
+    {
+      "key": 10569,
+      "name": "Eastbound Portage at Dominion",
+      "number": 10569,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1066,
+        "name": "Dominion Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 630858,
+          "y": 5527329
+        },
+        "geographic": {
+          "latitude": "49.88404",
+          "longitude": "-97.17841"
+        }
+      }
+    },
+    {
+      "key": 10570,
+      "name": "Eastbound Portage at Sherburn",
+      "number": 10570,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3319,
+        "name": "Sherburn Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631022,
+          "y": 5527366
+        },
+        "geographic": {
+          "latitude": "49.88434",
+          "longitude": "-97.17612"
+        }
+      }
+    },
+    {
+      "key": 10571,
+      "name": "Eastbound Portage at Lipton",
+      "number": 10571,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2172,
+        "name": "Lipton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631223,
+          "y": 5527411
+        },
+        "geographic": {
+          "latitude": "49.8847",
+          "longitude": "-97.1733"
+        }
+      }
+    },
+    {
+      "key": 10572,
+      "name": "Eastbound Portage at Lenore",
+      "number": 10572,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2137,
+        "name": "Lenore Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631383,
+          "y": 5527450
+        },
+        "geographic": {
+          "latitude": "49.88501",
+          "longitude": "-97.17107"
+        }
+      }
+    },
+    {
+      "key": 10573,
+      "name": "Eastbound Portage at Arlington",
+      "number": 10573,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 141,
+        "name": "Arlington Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631490,
+          "y": 5527495
+        },
+        "geographic": {
+          "latitude": "49.88539",
+          "longitude": "-97.16956"
+        }
+      }
+    },
+    {
+      "key": 10574,
+      "name": "Eastbound Portage at Canora",
+      "number": 10574,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 628,
+        "name": "Canora Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631718,
+          "y": 5527598
+        },
+        "geographic": {
+          "latitude": "49.88627",
+          "longitude": "-97.16635"
+        }
+      }
+    },
+    {
+      "key": 10575,
+      "name": "Eastbound Portage at Broadway",
+      "number": 10575,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 519,
+        "name": "Broadway"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 631871,
+          "y": 5527664
+        },
+        "geographic": {
+          "latitude": "49.88683",
+          "longitude": "-97.1642"
+        }
+      }
+    },
+    {
+      "key": 10576,
+      "name": "Eastbound Portage at Maryland",
+      "number": 10576,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2357,
+        "name": "Maryland Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632124,
+          "y": 5527779
+        },
+        "geographic": {
+          "latitude": "49.88781",
+          "longitude": "-97.16064"
+        }
+      }
+    },
+    {
+      "key": 10577,
+      "name": "Eastbound Portage at Sherbrook",
+      "number": 10577,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3318,
+        "name": "Sherbrook Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632278,
+          "y": 5527848
+        },
+        "geographic": {
+          "latitude": "49.88839",
+          "longitude": "-97.15848"
+        }
+      }
+    },
+    {
+      "key": 10578,
+      "name": "Eastbound Portage at Langside",
+      "number": 10578,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2075,
+        "name": "Langside Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632379,
+          "y": 5527894
+        },
+        "geographic": {
+          "latitude": "49.88879",
+          "longitude": "-97.15706"
+        }
+      }
+    },
+    {
+      "key": 10579,
+      "name": "Eastbound Portage at Balmoral (U of Winnipeg)",
+      "number": 10579,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 228,
+        "name": "Balmoral Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632660,
+          "y": 5528030
+        },
+        "geographic": {
+          "latitude": "49.88995",
+          "longitude": "-97.1531"
+        }
+      }
+    },
+    {
+      "key": 10580,
+      "name": "Eastbound Portage at Vaughan (The Bay)",
+      "number": 10580,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3716,
+        "name": "Vaughan Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 632901,
+          "y": 5528177
+        },
+        "geographic": {
+          "latitude": "49.89121",
+          "longitude": "-97.1497"
+        }
+      }
+    },
+    {
+      "key": 10581,
+      "name": "Eastbound Portage at Edmonton (Portage Place)",
+      "number": 10581,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1201,
+        "name": "Edmonton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633051,
+          "y": 5528271
+        },
+        "geographic": {
+          "latitude": "49.89203",
+          "longitude": "-97.14758"
+        }
+      }
+    },
+    {
+      "key": 10582,
+      "name": "Eastbound Portage at Donald (Canada Life Centre)",
+      "number": 10582,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1070,
+        "name": "Donald Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633334,
+          "y": 5528442
+        },
+        "geographic": {
+          "latitude": "49.8935",
+          "longitude": "-97.14358"
+        }
+      }
+    },
+    {
+      "key": 10583,
+      "name": "Eastbound Portage at Fort",
+      "number": 10583,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1365,
+        "name": "Fort Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633584,
+          "y": 5528593
+        },
+        "geographic": {
+          "latitude": "49.8948",
+          "longitude": "-97.14005"
+        }
+      }
+    },
+    {
+      "key": 20200,
+      "name": "Westbound Portage at Century",
+      "number": 20200,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 699,
+        "name": "Century Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629027,
+          "y": 5526828
+        },
+        "geographic": {
+          "latitude": "49.87993",
+          "longitude": "-97.20405"
+        }
+      }
+    },
+    {
+      "key": 20201,
+      "name": "Westbound Portage at Queen",
+      "number": 20201,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2950,
+        "name": "Queen Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628778,
+          "y": 5526751
+        },
+        "geographic": {
+          "latitude": "49.8793",
+          "longitude": "-97.20754"
+        }
+      }
+    },
+    {
+      "key": 20202,
+      "name": "Westbound Portage at Woodlands",
+      "number": 20202,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3976,
+        "name": "Woodlands Crescent",
+        "type": "Crescent"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623510,
+          "y": 5526700
+        },
+        "geographic": {
+          "latitude": "49.87995",
+          "longitude": "-97.28085"
+        }
+      }
+    },
+    {
+      "key": 20205,
+      "name": "Westbound Portage at Berry",
+      "number": 20205,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 347,
+        "name": "Berry Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628514,
+          "y": 5526710
+        },
+        "geographic": {
+          "latitude": "49.87898",
+          "longitude": "-97.21123"
+        }
+      }
+    },
+    {
+      "key": 20206,
+      "name": "Westbound Portage at Marjorie",
+      "number": 20206,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2332,
+        "name": "Marjorie Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628285,
+          "y": 5526690
+        },
+        "geographic": {
+          "latitude": "49.87885",
+          "longitude": "-97.21442"
+        }
+      }
+    },
+    {
+      "key": 20207,
+      "name": "Westbound Portage at Collegiate",
+      "number": 20207,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 820,
+        "name": "Collegiate Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628059,
+          "y": 5526677
+        },
+        "geographic": {
+          "latitude": "49.87878",
+          "longitude": "-97.21757"
+        }
+      }
+    },
+    {
+      "key": 20208,
+      "name": "Westbound Portage at Inglewood",
+      "number": 20208,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1834,
+        "name": "Inglewood Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627913,
+          "y": 5526669
+        },
+        "geographic": {
+          "latitude": "49.87874",
+          "longitude": "-97.2196"
+        }
+      }
+    },
+    {
+      "key": 20209,
+      "name": "Westbound Portage at Amherst",
+      "number": 20209,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 99,
+        "name": "Amherst Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627718,
+          "y": 5526658
+        },
+        "geographic": {
+          "latitude": "49.87869",
+          "longitude": "-97.22232"
+        }
+      }
+    },
+    {
+      "key": 20210,
+      "name": "Westbound Portage at Albany",
+      "number": 20210,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 39,
+        "name": "Albany Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627509,
+          "y": 5526649
+        },
+        "geographic": {
+          "latitude": "49.87865",
+          "longitude": "-97.22523"
+        }
+      }
+    },
+    {
+      "key": 20211,
+      "name": "Westbound Portage at Linwood",
+      "number": 20211,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2169,
+        "name": "Linwood Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627323,
+          "y": 5526599
+        },
+        "geographic": {
+          "latitude": "49.87824",
+          "longitude": "-97.22783"
+        }
+      }
+    },
+    {
+      "key": 20212,
+      "name": "Westbound Portage at Overdale (Assiniboine Park)",
+      "number": 20212,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2728,
+        "name": "Overdale Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627115,
+          "y": 5526503
+        },
+        "geographic": {
+          "latitude": "49.87742",
+          "longitude": "-97.23076"
+        }
+      }
+    },
+    {
+      "key": 20213,
+      "name": "Westbound Portage at Belvidere",
+      "number": 20213,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 324,
+        "name": "Belvidere Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626909,
+          "y": 5526490
+        },
+        "geographic": {
+          "latitude": "49.87735",
+          "longitude": "-97.23363"
+        }
+      }
+    },
+    {
+      "key": 20214,
+      "name": "Westbound Portage at Woodlawn (Deer Lodge Centre)",
+      "number": 20214,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3979,
+        "name": "Woodlawn Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626781,
+          "y": 5526485
+        },
+        "geographic": {
+          "latitude": "49.87733",
+          "longitude": "-97.23541"
+        }
+      }
+    },
+    {
+      "key": 20215,
+      "name": "Westbound Portage at Sharp",
+      "number": 20215,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3301,
+        "name": "Sharp Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626615,
+          "y": 5526452
+        },
+        "geographic": {
+          "latitude": "49.87707",
+          "longitude": "-97.23773"
+        }
+      }
+    },
+    {
+      "key": 20216,
+      "name": "Westbound Portage at Conway",
+      "number": 20216,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 853,
+        "name": "Conway Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626385,
+          "y": 5526405
+        },
+        "geographic": {
+          "latitude": "49.8767",
+          "longitude": "-97.24095"
+        }
+      }
+    },
+    {
+      "key": 20217,
+      "name": "Westbound Portage at Mount Royal East",
+      "number": 20217,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2569,
+        "name": "Mount Royal Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626186,
+          "y": 5526368
+        },
+        "geographic": {
+          "latitude": "49.8764",
+          "longitude": "-97.24373"
+        }
+      }
+    },
+    {
+      "key": 20218,
+      "name": "Westbound Portage at Mount Royal",
+      "number": 20218,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2569,
+        "name": "Mount Royal Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626065,
+          "y": 5526346
+        },
+        "geographic": {
+          "latitude": "49.87623",
+          "longitude": "-97.24542"
+        }
+      }
+    },
+    {
+      "key": 20219,
+      "name": "Westbound Portage at Traill",
+      "number": 20219,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3641,
+        "name": "Traill Avenue",
+        "type": "Avenue"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625832,
+          "y": 5526315
+        },
+        "geographic": {
+          "latitude": "49.876",
+          "longitude": "-97.24867"
+        }
+      }
+    },
+    {
+      "key": 20220,
+      "name": "Westbound Portage at Strathmillan",
+      "number": 20220,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3509,
+        "name": "Strathmillan Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625653,
+          "y": 5526291
+        },
+        "geographic": {
+          "latitude": "49.87582",
+          "longitude": "-97.25117"
+        }
+      }
+    },
+    {
+      "key": 20221,
+      "name": "Westbound Portage at Whytewold",
+      "number": 20221,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3879,
+        "name": "Whytewold Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625410,
+          "y": 5526253
+        },
+        "geographic": {
+          "latitude": "49.87553",
+          "longitude": "-97.25456"
+        }
+      }
+    },
+    {
+      "key": 20222,
+      "name": "Westbound Portage at Rita",
+      "number": 20222,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3054,
+        "name": "Rita Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625118,
+          "y": 5526202
+        },
+        "geographic": {
+          "latitude": "49.87514",
+          "longitude": "-97.25864"
+        }
+      }
+    },
+    {
+      "key": 20223,
+      "name": "Westbound Portage at Moray",
+      "number": 20223,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2547,
+        "name": "Moray Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624828,
+          "y": 5526239
+        },
+        "geographic": {
+          "latitude": "49.87553",
+          "longitude": "-97.26266"
+        }
+      }
+    },
+    {
+      "key": 20224,
+      "name": "Westbound Portage at Aldine",
+      "number": 20224,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 53,
+        "name": "Aldine Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624685,
+          "y": 5526288
+        },
+        "geographic": {
+          "latitude": "49.876",
+          "longitude": "-97.26463"
+        }
+      }
+    },
+    {
+      "key": 20225,
+      "name": "Westbound Portage at Thompson",
+      "number": 20225,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3606,
+        "name": "Thompson Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624544,
+          "y": 5526343
+        },
+        "geographic": {
+          "latitude": "49.87652",
+          "longitude": "-97.26658"
+        }
+      }
+    },
+    {
+      "key": 20226,
+      "name": "Westbound Portage at Harcourt",
+      "number": 20226,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1638,
+        "name": "Harcourt Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624328,
+          "y": 5526427
+        },
+        "geographic": {
+          "latitude": "49.87732",
+          "longitude": "-97.26956"
+        }
+      }
+    },
+    {
+      "key": 20227,
+      "name": "Westbound Portage at Ronald",
+      "number": 20227,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3108,
+        "name": "Ronald Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624141,
+          "y": 5526498
+        },
+        "geographic": {
+          "latitude": "49.878",
+          "longitude": "-97.27213"
+        }
+      }
+    },
+    {
+      "key": 20228,
+      "name": "Westbound Portage at Booth",
+      "number": 20228,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 430,
+        "name": "Booth Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623984,
+          "y": 5526554
+        },
+        "geographic": {
+          "latitude": "49.87854",
+          "longitude": "-97.2743"
+        }
+      }
+    },
+    {
+      "key": 20230,
+      "name": "Westbound Portage at Sturgeon",
+      "number": 20230,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3517,
+        "name": "Sturgeon Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623686,
+          "y": 5526652
+        },
+        "geographic": {
+          "latitude": "49.87948",
+          "longitude": "-97.27841"
+        }
+      }
+    },
+    {
+      "key": 20231,
+      "name": "Westbound Portage at Country Club",
+      "number": 20231,
+      "direction": "Westbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 891,
+        "name": "Country Club Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623331,
+          "y": 5526738
+        },
+        "geographic": {
+          "latitude": "49.88033",
+          "longitude": "-97.28333"
+        }
+      }
+    },
+    {
+      "key": 20232,
+      "name": "Westbound Portage at Greenway",
+      "number": 20232,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 4070,
+        "name": "Greenway Crescent",
+        "type": "Crescent",
+        "leg": "East"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623113,
+          "y": 5526785
+        },
+        "geographic": {
+          "latitude": "49.88079",
+          "longitude": "-97.28634"
+        }
+      }
+    },
+    {
+      "key": 20233,
+      "name": "Westbound Portage at School",
+      "number": 20233,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3237,
+        "name": "School Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622846,
+          "y": 5526848
+        },
+        "geographic": {
+          "latitude": "49.88141",
+          "longitude": "-97.29004"
+        }
+      }
+    },
+    {
+      "key": 20234,
+      "name": "Westbound Portage at Vimy",
+      "number": 20234,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3742,
+        "name": "Vimy Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622717,
+          "y": 5526874
+        },
+        "geographic": {
+          "latitude": "49.88167",
+          "longitude": "-97.29183"
+        }
+      }
+    },
+    {
+      "key": 20235,
+      "name": "Westbound Portage at Parkhill",
+      "number": 20235,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2774,
+        "name": "Parkhill Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622555,
+          "y": 5526907
+        },
+        "geographic": {
+          "latitude": "49.882",
+          "longitude": "-97.29407"
+        }
+      }
+    },
+    {
+      "key": 20236,
+      "name": "Westbound Portage at Muriel",
+      "number": 20236,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2580,
+        "name": "Muriel Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622411,
+          "y": 5526941
+        },
+        "geographic": {
+          "latitude": "49.88234",
+          "longitude": "-97.29606"
+        }
+      }
+    },
+    {
+      "key": 20237,
+      "name": "Westbound Portage at Cavalier",
+      "number": 20237,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 683,
+        "name": "Cavalier Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622160,
+          "y": 5526993
+        },
+        "geographic": {
+          "latitude": "49.88286",
+          "longitude": "-97.29954"
+        }
+      }
+    },
+    {
+      "key": 20238,
+      "name": "Westbound Portage at Sumach",
+      "number": 20238,
+      "direction": "Westbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3518,
+        "name": "Sumach Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621955,
+          "y": 5527022
+        },
+        "geographic": {
+          "latitude": "49.88316",
+          "longitude": "-97.30238"
+        }
+      }
+    },
+    {
+      "key": 20239,
+      "name": "Eastbound Portage at Westwood",
+      "number": 20239,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3857,
+        "name": "Westwood Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622649,
+          "y": 5526854
+        },
+        "geographic": {
+          "latitude": "49.88151",
+          "longitude": "-97.29278"
+        }
+      }
+    },
+    {
+      "key": 20240,
+      "name": "Westbound Portage at Raquette",
+      "number": 20240,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2991,
+        "name": "Raquette Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621816,
+          "y": 5527014
+        },
+        "geographic": {
+          "latitude": "49.88312",
+          "longitude": "-97.30432"
+        }
+      }
+    },
+    {
+      "key": 20241,
+      "name": "Westbound Portage at Bedson",
+      "number": 20241,
+      "direction": "Westbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 303,
+        "name": "Bedson Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621615,
+          "y": 5526980
+        },
+        "geographic": {
+          "latitude": "49.88285",
+          "longitude": "-97.30712"
+        }
+      }
+    },
+    {
+      "key": 20242,
+      "name": "Westbound Portage at David",
+      "number": 20242,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 979,
+        "name": "David Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621439,
+          "y": 5526950
+        },
+        "geographic": {
+          "latitude": "49.88262",
+          "longitude": "-97.30958"
+        }
+      }
+    },
+    {
+      "key": 20243,
+      "name": "Westbound Portage at Knox",
+      "number": 20243,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2010,
+        "name": "Knox Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621252,
+          "y": 5526909
+        },
+        "geographic": {
+          "latitude": "49.88229",
+          "longitude": "-97.3122"
+        }
+      }
+    },
+    {
+      "key": 20246,
+      "name": "Westbound Portage at Buchanan",
+      "number": 20246,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 547,
+        "name": "Buchanan Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 620951,
+          "y": 5526845
+        },
+        "geographic": {
+          "latitude": "49.88177",
+          "longitude": "-97.31641"
+        }
+      }
+    },
+    {
+      "key": 20247,
+      "name": "Westbound Portage at Stewart",
+      "number": 20247,
+      "direction": "Westbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3485,
+        "name": "Stewart Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 620786,
+          "y": 5526810
+        },
+        "geographic": {
+          "latitude": "49.88149",
+          "longitude": "-97.31871"
+        }
+      }
+    },
+    {
+      "key": 20248,
+      "name": "Eastbound Portage at St. Charles",
+      "number": 20248,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3431,
+        "name": "St Charles Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 620770,
+          "y": 5526776
+        },
+        "geographic": {
+          "latitude": "49.88119",
+          "longitude": "-97.31895"
+        }
+      }
+    },
+    {
+      "key": 20249,
+      "name": "Eastbound Portage at Buchanan",
+      "number": 20249,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 547,
+        "name": "Buchanan Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 620912,
+          "y": 5526805
+        },
+        "geographic": {
+          "latitude": "49.88142",
+          "longitude": "-97.31696"
+        }
+      }
+    },
+    {
+      "key": 20251,
+      "name": "Eastbound Portage at David",
+      "number": 20251,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 979,
+        "name": "David Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621301,
+          "y": 5526885
+        },
+        "geographic": {
+          "latitude": "49.88206",
+          "longitude": "-97.31152"
+        }
+      }
+    },
+    {
+      "key": 20252,
+      "name": "Eastbound Portage at Bedson",
+      "number": 20252,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 303,
+        "name": "Bedson Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621589,
+          "y": 5526942
+        },
+        "geographic": {
+          "latitude": "49.88252",
+          "longitude": "-97.3075"
+        }
+      }
+    },
+    {
+      "key": 20253,
+      "name": "Eastbound Portage at Seaton",
+      "number": 20253,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3251,
+        "name": "Seaton Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 621847,
+          "y": 5526987
+        },
+        "geographic": {
+          "latitude": "49.88287",
+          "longitude": "-97.30389"
+        }
+      }
+    },
+    {
+      "key": 20254,
+      "name": "Eastbound Portage at Rouge",
+      "number": 20254,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3135,
+        "name": "Rouge Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622187,
+          "y": 5526954
+        },
+        "geographic": {
+          "latitude": "49.8825",
+          "longitude": "-97.29917"
+        }
+      }
+    },
+    {
+      "key": 20255,
+      "name": "Eastbound Portage at Muriel",
+      "number": 20255,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2580,
+        "name": "Muriel Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622350,
+          "y": 5526922
+        },
+        "geographic": {
+          "latitude": "49.88218",
+          "longitude": "-97.29692"
+        }
+      }
+    },
+    {
+      "key": 20256,
+      "name": "Eastbound Portage at Parkdale",
+      "number": 20256,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2772,
+        "name": "Parkdale Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622520,
+          "y": 5526884
+        },
+        "geographic": {
+          "latitude": "49.88181",
+          "longitude": "-97.29456"
+        }
+      }
+    },
+    {
+      "key": 20257,
+      "name": "Eastbound Portage at Banting",
+      "number": 20257,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 240,
+        "name": "Banting Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622945,
+          "y": 5526792
+        },
+        "geographic": {
+          "latitude": "49.88089",
+          "longitude": "-97.28868"
+        }
+      }
+    },
+    {
+      "key": 20258,
+      "name": "Eastbound Portage at Daer",
+      "number": 20258,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 947,
+        "name": "Daer Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623046,
+          "y": 5526769
+        },
+        "geographic": {
+          "latitude": "49.88066",
+          "longitude": "-97.28728"
+        }
+      }
+    },
+    {
+      "key": 20259,
+      "name": "Eastbound Portage at Golf",
+      "number": 20259,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1513,
+        "name": "Golf Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623157,
+          "y": 5526746
+        },
+        "geographic": {
+          "latitude": "49.88043",
+          "longitude": "-97.28574"
+        }
+      }
+    },
+    {
+      "key": 20260,
+      "name": "Eastbound Portage at Country Club",
+      "number": 20260,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 891,
+        "name": "Country Club Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623339,
+          "y": 5526706
+        },
+        "geographic": {
+          "latitude": "49.88004",
+          "longitude": "-97.28323"
+        }
+      }
+    },
+    {
+      "key": 20261,
+      "name": "Eastbound Portage at Woodlands",
+      "number": 20261,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3976,
+        "name": "Woodlands Crescent",
+        "type": "Crescent"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623553,
+          "y": 5526660
+        },
+        "geographic": {
+          "latitude": "49.87958",
+          "longitude": "-97.28026"
+        }
+      }
+    },
+    {
+      "key": 20262,
+      "name": "Eastbound Portage at Sturgeon",
+      "number": 20262,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3517,
+        "name": "Sturgeon Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623670,
+          "y": 5526626
+        },
+        "geographic": {
+          "latitude": "49.87925",
+          "longitude": "-97.27865"
+        }
+      }
+    },
+    {
+      "key": 20263,
+      "name": "Eastbound Portage at Oakdean",
+      "number": 20263,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2673,
+        "name": "Oakdean Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 623828,
+          "y": 5526570
+        },
+        "geographic": {
+          "latitude": "49.87871",
+          "longitude": "-97.27647"
+        }
+      }
+    },
+    {
+      "key": 20264,
+      "name": "Eastbound Portage at Woodhaven",
+      "number": 20264,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3973,
+        "name": "Woodhaven Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624081,
+          "y": 5526480
+        },
+        "geographic": {
+          "latitude": "49.87785",
+          "longitude": "-97.27297"
+        }
+      }
+    },
+    {
+      "key": 20265,
+      "name": "Eastbound Portage at Old Mill",
+      "number": 20265,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2695,
+        "name": "Old Mill Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624259,
+          "y": 5526421
+        },
+        "geographic": {
+          "latitude": "49.87728",
+          "longitude": "-97.27052"
+        }
+      }
+    },
+    {
+      "key": 20266,
+      "name": "Eastbound Portage at Windham",
+      "number": 20266,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3935,
+        "name": "Windham Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624566,
+          "y": 5526302
+        },
+        "geographic": {
+          "latitude": "49.87615",
+          "longitude": "-97.26628"
+        }
+      }
+    },
+    {
+      "key": 20267,
+      "name": "Eastbound Portage at Lake",
+      "number": 20267,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2041,
+        "name": "Lake Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624720,
+          "y": 5526234
+        },
+        "geographic": {
+          "latitude": "49.87551",
+          "longitude": "-97.26416"
+        }
+      }
+    },
+    {
+      "key": 20268,
+      "name": "Eastbound Portage at Ainslie",
+      "number": 20268,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 33,
+        "name": "Ainslie Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 624916,
+          "y": 5526165
+        },
+        "geographic": {
+          "latitude": "49.87485",
+          "longitude": "-97.26146"
+        }
+      }
+    },
+    {
+      "key": 20269,
+      "name": "Eastbound Portage at Rita",
+      "number": 20269,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3054,
+        "name": "Rita Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625182,
+          "y": 5526181
+        },
+        "geographic": {
+          "latitude": "49.87493",
+          "longitude": "-97.25775"
+        }
+      }
+    },
+    {
+      "key": 20270,
+      "name": "Eastbound Portage at Olive",
+      "number": 20270,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2698,
+        "name": "Olive Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625294,
+          "y": 5526201
+        },
+        "geographic": {
+          "latitude": "49.87509",
+          "longitude": "-97.25619"
+        }
+      }
+    },
+    {
+      "key": 20272,
+      "name": "Eastbound Portage at Whytewold",
+      "number": 20272,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3879,
+        "name": "Whytewold Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625393,
+          "y": 5526218
+        },
+        "geographic": {
+          "latitude": "49.87522",
+          "longitude": "-97.25481"
+        }
+      }
+    },
+    {
+      "key": 20273,
+      "name": "Eastbound Portage at Vernon",
+      "number": 20273,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3723,
+        "name": "Vernon Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625525,
+          "y": 5526243
+        },
+        "geographic": {
+          "latitude": "49.87542",
+          "longitude": "-97.25296"
+        }
+      }
+    },
+    {
+      "key": 20274,
+      "name": "Eastbound Portage at Strathmillan",
+      "number": 20274,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3509,
+        "name": "Strathmillan Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625686,
+          "y": 5526265
+        },
+        "geographic": {
+          "latitude": "49.87558",
+          "longitude": "-97.25072"
+        }
+      }
+    },
+    {
+      "key": 20275,
+      "name": "Eastbound Portage at Mount Royal West",
+      "number": 20275,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2568,
+        "name": "Mount Royal Crescent",
+        "type": "Crescent"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 625821,
+          "y": 5526281
+        },
+        "geographic": {
+          "latitude": "49.8757",
+          "longitude": "-97.24883"
+        }
+      }
+    },
+    {
+      "key": 20276,
+      "name": "Eastbound Portage at Mount Royal",
+      "number": 20276,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2568,
+        "name": "Mount Royal Crescent",
+        "type": "Crescent"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626050,
+          "y": 5526311
+        },
+        "geographic": {
+          "latitude": "49.87592",
+          "longitude": "-97.24564"
+        }
+      }
+    },
+    {
+      "key": 20277,
+      "name": "Eastbound Portage at Conway",
+      "number": 20277,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 853,
+        "name": "Conway Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626362,
+          "y": 5526370
+        },
+        "geographic": {
+          "latitude": "49.87639",
+          "longitude": "-97.24128"
+        }
+      }
+    },
+    {
+      "key": 20278,
+      "name": "Eastbound Portage at Sharp",
+      "number": 20278,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3301,
+        "name": "Sharp Boulevard",
+        "type": "Boulevard"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626567,
+          "y": 5526412
+        },
+        "geographic": {
+          "latitude": "49.87672",
+          "longitude": "-97.23841"
+        }
+      }
+    },
+    {
+      "key": 20279,
+      "name": "Eastbound Portage at Woodlawn (Deer Lodge Centre)",
+      "number": 20279,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3979,
+        "name": "Woodlawn Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 626829,
+          "y": 5526459
+        },
+        "geographic": {
+          "latitude": "49.87709",
+          "longitude": "-97.23475"
+        }
+      }
+    },
+    {
+      "key": 20281,
+      "name": "Eastbound Portage at Deer Lodge",
+      "number": 20281,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1009,
+        "name": "Deer Lodge Place",
+        "type": "Place"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627359,
+          "y": 5526578
+        },
+        "geographic": {
+          "latitude": "49.87804",
+          "longitude": "-97.22734"
+        }
+      }
+    },
+    {
+      "key": 20282,
+      "name": "Eastbound Portage at Albany",
+      "number": 20282,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 39,
+        "name": "Albany Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627465,
+          "y": 5526612
+        },
+        "geographic": {
+          "latitude": "49.87833",
+          "longitude": "-97.22585"
+        }
+      }
+    },
+    {
+      "key": 20283,
+      "name": "Eastbound Portage at Amherst",
+      "number": 20283,
+      "direction": "Eastbound",
+      "side": "Farside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1091,
+        "name": "Douglas Park Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627678,
+          "y": 5526626
+        },
+        "geographic": {
+          "latitude": "49.87841",
+          "longitude": "-97.22289"
+        }
+      }
+    },
+    {
+      "key": 20284,
+      "name": "Eastbound Portage at Rutland",
+      "number": 20284,
+      "direction": "Eastbound",
+      "side": "Farside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3166,
+        "name": "Rutland Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627821,
+          "y": 5526634
+        },
+        "geographic": {
+          "latitude": "49.87845",
+          "longitude": "-97.22089"
+        }
+      }
+    },
+    {
+      "key": 20285,
+      "name": "Eastbound Portage at Ferry",
+      "number": 20285,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1313,
+        "name": "Ferry Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627950,
+          "y": 5526641
+        },
+        "geographic": {
+          "latitude": "49.87848",
+          "longitude": "-97.2191"
+        }
+      }
+    },
+    {
+      "key": 20286,
+      "name": "Eastbound Portage at Roseberry",
+      "number": 20286,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3115,
+        "name": "Roseberry Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628130,
+          "y": 5526651
+        },
+        "geographic": {
+          "latitude": "49.87854",
+          "longitude": "-97.21659"
+        }
+      }
+    },
+    {
+      "key": 20287,
+      "name": "Eastbound Portage at Riveroaks",
+      "number": 20287,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3068,
+        "name": "Riveroaks Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628308,
+          "y": 5526662
+        },
+        "geographic": {
+          "latitude": "49.8786",
+          "longitude": "-97.21411"
+        }
+      }
+    },
+    {
+      "key": 20288,
+      "name": "Eastbound Portage at Cavell",
+      "number": 20288,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 684,
+        "name": "Cavell Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628472,
+          "y": 5526671
+        },
+        "geographic": {
+          "latitude": "49.87864",
+          "longitude": "-97.21183"
+        }
+      }
+    },
+    {
+      "key": 20289,
+      "name": "Eastbound Portage at King Edward",
+      "number": 20289,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1973,
+        "name": "King Edward Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628652,
+          "y": 5526697
+        },
+        "geographic": {
+          "latitude": "49.87884",
+          "longitude": "-97.20931"
+        }
+      }
+    },
+    {
+      "key": 20290,
+      "name": "Eastbound Portage at Garden",
+      "number": 20290,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1424,
+        "name": "Garden Road",
+        "type": "Road"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 628824,
+          "y": 5526732
+        },
+        "geographic": {
+          "latitude": "49.87912",
+          "longitude": "-97.20691"
+        }
+      }
+    },
+    {
+      "key": 20291,
+      "name": "Eastbound Portage at Kintyre",
+      "number": 20291,
+      "direction": "Eastbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1993,
+        "name": "Kintyre Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 629054,
+          "y": 5526800
+        },
+        "geographic": {
+          "latitude": "49.87968",
+          "longitude": "-97.20369"
+        }
+      }
+    },
+    {
+      "key": 20418,
+      "name": "Eastbound Portage at Overdale (Assiniboine Park)",
+      "number": 20418,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 2728,
+        "name": "Overdale Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 627085,
+          "y": 5526460
+        },
+        "geographic": {
+          "latitude": "49.87704",
+          "longitude": "-97.23119"
+        }
+      }
+    },
+    {
+      "key": 20441,
+      "name": "Westbound Portage at St. Charles",
+      "number": 20441,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 3431,
+        "name": "St Charles Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 620638,
+          "y": 5526778
+        },
+        "geographic": {
+          "latitude": "49.88123",
+          "longitude": "-97.32078"
+        }
+      }
+    },
+    {
+      "key": 20528,
+      "name": "Eastbound Portage at Cavalier",
+      "number": 20528,
+      "direction": "Eastbound",
+      "side": "Nearside Opposite",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 683,
+        "name": "Cavalier Drive",
+        "type": "Drive"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 622038,
+          "y": 5526981
+        },
+        "geographic": {
+          "latitude": "49.88278",
+          "longitude": "-97.30124"
+        }
+      }
+    }
+  ],
+  "query-time": "2021-12-08T10:33:01"
+}

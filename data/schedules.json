@@ -1,0 +1,2278 @@
+{
+  "stop-schedule": {
+    "stop": {
+      "key": 10541,
+      "name": "Westbound Portage at Garry",
+      "number": 10541,
+      "direction": "Westbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2903,
+        "name": "Portage Avenue",
+        "type": "Avenue"
+      },
+      "cross-street": {
+        "key": 1437,
+        "name": "Garry Street",
+        "type": "Street"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633523,
+          "y": 5528584
+        },
+        "geographic": {
+          "latitude": "49.89473",
+          "longitude": "-97.1409"
+        }
+      }
+    },
+    "route-schedules": [
+      {
+        "route": {
+          "key": 11,
+          "number": 11,
+          "name": "Route 11 Portage-Kildonan",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 11,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18300278-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:01:00",
+                "estimated": "2021-12-08T14:01:52"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:01:00",
+                "estimated": "2021-12-08T14:01:52"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 773,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300241-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:11:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:11:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 849,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300267-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:21:00",
+                "estimated": "2021-12-08T14:21:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:21:00",
+                "estimated": "2021-12-08T14:21:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 831,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300277-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:31:00",
+                "estimated": "2021-12-08T14:31:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:31:00",
+                "estimated": "2021-12-08T14:31:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 140,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300327-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:41:00",
+                "estimated": "2021-12-08T14:41:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:41:00",
+                "estimated": "2021-12-08T14:41:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 830,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300323-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:51:00",
+                "estimated": "2021-12-08T14:51:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:51:00",
+                "estimated": "2021-12-08T14:51:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 888,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300271-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:01:00",
+                "estimated": "2021-12-08T15:01:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:01:00",
+                "estimated": "2021-12-08T15:01:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 757,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300328-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:11:00",
+                "estimated": "2021-12-08T15:11:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:11:00",
+                "estimated": "2021-12-08T15:11:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 751,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300279-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:21:00",
+                "estimated": "2021-12-08T15:21:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:21:00",
+                "estimated": "2021-12-08T15:21:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 173,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300268-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:31:00",
+                "estimated": "2021-12-08T15:31:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:31:00",
+                "estimated": "2021-12-08T15:31:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 613,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300280-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:40:00",
+                "estimated": "2021-12-08T15:40:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:40:00",
+                "estimated": "2021-12-08T15:40:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 773,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300276-45",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 849,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300274-44",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              }
+            },
+            "variant": {
+              "key": "11-0-P",
+              "name": "Portage-Kildonan to Polo Park"
+            },
+            "bus": {
+              "key": 831,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 55,
+          "number": 55,
+          "name": "Route 55 St. Anne's",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 55,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18303377-47",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:04:00",
+                "estimated": "2021-12-08T14:04:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:04:00",
+                "estimated": "2021-12-08T14:04:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-D",
+              "name": "St.Anne's to University of Winnipeg via Dakota"
+            },
+            "bus": {
+              "key": 741,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303357-57",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:24:00",
+                "estimated": "2021-12-08T14:24:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:24:00",
+                "estimated": "2021-12-08T14:24:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-M",
+              "name": "St.Anne's to University of Winnipeg via Meadowood"
+            },
+            "bus": {
+              "key": 877,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303378-47",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:42:00",
+                "estimated": "2021-12-08T14:42:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:42:00",
+                "estimated": "2021-12-08T14:42:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-D",
+              "name": "St.Anne's to University of Winnipeg via Dakota"
+            },
+            "bus": {
+              "key": 634,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303379-57",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:03:00",
+                "estimated": "2021-12-08T15:03:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:03:00",
+                "estimated": "2021-12-08T15:03:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-M",
+              "name": "St.Anne's to University of Winnipeg via Meadowood"
+            },
+            "bus": {
+              "key": 407,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303380-47",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:24:00",
+                "estimated": "2021-12-08T15:24:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:24:00",
+                "estimated": "2021-12-08T15:24:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-D",
+              "name": "St.Anne's to University of Winnipeg via Dakota"
+            },
+            "bus": {
+              "key": 603,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303375-57",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:43:00",
+                "estimated": "2021-12-08T15:43:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:43:00",
+                "estimated": "2021-12-08T15:43:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-M",
+              "name": "St.Anne's to University of Winnipeg via Meadowood"
+            },
+            "bus": {
+              "key": 741,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303345-47",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              }
+            },
+            "variant": {
+              "key": "55-1-D",
+              "name": "St.Anne's to University of Winnipeg via Dakota"
+            },
+            "bus": {
+              "key": 664,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 22,
+          "number": 22,
+          "name": "Route 22 Assiniboia Express",
+          "customer-type": "regular",
+          "coverage": "express",
+          "badge-label": 22,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "express"]
+            },
+            "background-color": "#eed700",
+            "border-color": "#cab700",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18301799-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:40:00",
+                "estimated": "2021-12-08T15:40:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:40:00",
+                "estimated": "2021-12-08T15:40:00"
+              }
+            },
+            "variant": {
+              "key": "22-0-C",
+              "name": "Assiniboia Express to Crestview"
+            },
+            "bus": {
+              "key": 300,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301800-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              }
+            },
+            "variant": {
+              "key": "22-0-S",
+              "name": "Assiniboia Express to St.Charles"
+            },
+            "bus": {
+              "key": 429,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301801-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:57:00",
+                "estimated": "2021-12-08T15:57:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:57:00",
+                "estimated": "2021-12-08T15:57:00"
+              }
+            },
+            "variant": {
+              "key": "22-0-W",
+              "name": "Assiniboia Express to Westwood"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 67,
+          "number": 67,
+          "name": "Route 67 Charleswood Express",
+          "customer-type": "regular",
+          "coverage": "express",
+          "badge-label": 67,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "express"]
+            },
+            "background-color": "#eed700",
+            "border-color": "#cab700",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18303883-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:34:00",
+                "estimated": "2021-12-08T15:34:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:34:00",
+                "estimated": "2021-12-08T15:34:00"
+              }
+            },
+            "variant": {
+              "key": "67-0-K#",
+              "name": "Charleswood Express to Westdale"
+            },
+            "bus": {
+              "key": 444,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18303884-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:49:00",
+                "estimated": "2021-12-08T15:49:00"
+              }
+            },
+            "variant": {
+              "key": "67-0-K#",
+              "name": "Charleswood Express to Westdale"
+            },
+            "bus": {
+              "key": 196,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 24,
+          "number": 24,
+          "name": "Route 24 Ness Express",
+          "customer-type": "regular",
+          "coverage": "express",
+          "badge-label": 24,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "express"]
+            },
+            "background-color": "#eed700",
+            "border-color": "#cab700",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18302025-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:04:00",
+                "estimated": "2021-12-08T14:02:39"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:04:00",
+                "estimated": "2021-12-08T14:02:39"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 760,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302026-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:21:00",
+                "estimated": "2021-12-08T14:21:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:21:00",
+                "estimated": "2021-12-08T14:21:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 857,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302027-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:38:00",
+                "estimated": "2021-12-08T14:38:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:38:00",
+                "estimated": "2021-12-08T14:38:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 413,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302028-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:55:00",
+                "estimated": "2021-12-08T14:55:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:55:00",
+                "estimated": "2021-12-08T14:55:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 626,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302030-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:12:00",
+                "estimated": "2021-12-08T15:12:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:12:00",
+                "estimated": "2021-12-08T15:12:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 814,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302032-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:33:00",
+                "estimated": "2021-12-08T15:33:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:33:00",
+                "estimated": "2021-12-08T15:33:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 863,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302034-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              }
+            },
+            "variant": {
+              "key": "24-0-U",
+              "name": "Ness Express to Unicity"
+            },
+            "bus": {
+              "key": 760,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 14,
+          "number": 14,
+          "name": "Route 14 Ellice-St. Mary's",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 14,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18300619-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:11:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:11:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 402,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300620-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:27:00",
+                "estimated": "2021-12-08T14:27:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:27:00",
+                "estimated": "2021-12-08T14:27:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 762,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300621-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:43:00",
+                "estimated": "2021-12-08T14:43:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:43:00",
+                "estimated": "2021-12-08T14:43:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 704,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300622-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:59:00",
+                "estimated": "2021-12-08T14:59:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:59:00",
+                "estimated": "2021-12-08T14:59:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 817,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300593-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:14:00",
+                "estimated": "2021-12-08T15:14:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:14:00",
+                "estimated": "2021-12-08T15:14:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 874,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300549-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:28:00",
+                "estimated": "2021-12-08T15:28:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:28:00",
+                "estimated": "2021-12-08T15:28:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 326,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300534-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:41:00",
+                "estimated": "2021-12-08T15:41:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:41:00",
+                "estimated": "2021-12-08T15:41:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 646,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300550-62",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              }
+            },
+            "variant": {
+              "key": "14-1-E",
+              "name": "St. Mary's-Ellice to Ferry Road"
+            },
+            "bus": {
+              "key": 279,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 25,
+          "number": 25,
+          "name": "Route 25 Ness Super Express",
+          "customer-type": "regular",
+          "coverage": "super express",
+          "badge-label": 25,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "express"]
+            },
+            "background-color": "#eed700",
+            "border-color": "#cab700",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18302050-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:23:00",
+                "estimated": "2021-12-08T15:23:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:23:00",
+                "estimated": "2021-12-08T15:23:00"
+              }
+            },
+            "variant": {
+              "key": "25-0-U",
+              "name": "Ness Super Express to Unicity"
+            },
+            "bus": {
+              "key": 225,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302053-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:43:00",
+                "estimated": "2021-12-08T15:43:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:43:00",
+                "estimated": "2021-12-08T15:43:00"
+              }
+            },
+            "variant": {
+              "key": "25-0-U",
+              "name": "Ness Super Express to Unicity"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 15,
+          "number": 15,
+          "name": "Route 15 Sargent-Mountain",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 15,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18300798-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:17:00",
+                "estimated": "2021-12-08T14:17:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:17:00",
+                "estimated": "2021-12-08T14:17:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-F",
+              "name": "Sargent-Mountain to Airport via Flight Road"
+            },
+            "bus": {
+              "key": 638,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300761-41",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:39:00",
+                "estimated": "2021-12-08T14:39:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:39:00",
+                "estimated": "2021-12-08T14:39:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-W",
+              "name": "Sargent-Mountain to Airport via Wellington"
+            },
+            "bus": {
+              "key": 321,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300710-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:01:00",
+                "estimated": "2021-12-08T15:01:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:01:00",
+                "estimated": "2021-12-08T15:01:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-F",
+              "name": "Sargent-Mountain to Airport via Flight Road"
+            },
+            "bus": {
+              "key": 640,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300711-41",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:14:00",
+                "estimated": "2021-12-08T15:14:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:14:00",
+                "estimated": "2021-12-08T15:14:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-W",
+              "name": "Sargent-Mountain to Airport via Wellington"
+            },
+            "bus": {
+              "key": 871,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300712-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:26:00",
+                "estimated": "2021-12-08T15:26:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:26:00",
+                "estimated": "2021-12-08T15:26:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-F",
+              "name": "Sargent-Mountain to Airport via Flight Road"
+            },
+            "bus": {
+              "key": 806,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300713-41",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:38:00",
+                "estimated": "2021-12-08T15:38:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:38:00",
+                "estimated": "2021-12-08T15:38:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-W",
+              "name": "Sargent-Mountain to Airport via Wellington"
+            },
+            "bus": {
+              "key": 345,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300688-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:48:00",
+                "estimated": "2021-12-08T15:48:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:48:00",
+                "estimated": "2021-12-08T15:48:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-F",
+              "name": "Sargent-Mountain to Airport via Flight Road"
+            },
+            "bus": {
+              "key": 850,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18300696-41",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:58:00",
+                "estimated": "2021-12-08T15:58:00"
+              }
+            },
+            "variant": {
+              "key": "15-0-W",
+              "name": "Sargent-Mountain to Airport via Wellington"
+            },
+            "bus": {
+              "key": 309,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 38,
+          "number": 38,
+          "name": "Route 38 Salter",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 38,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18302557-7",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:24:00",
+                "estimated": "2021-12-08T14:24:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:24:00",
+                "estimated": "2021-12-08T14:24:00"
+              }
+            },
+            "variant": {
+              "key": "38-0-T",
+              "name": "Salter to Templeton & McPhillips"
+            },
+            "bus": {
+              "key": 828,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302561-7",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:48:00",
+                "estimated": "2021-12-08T14:48:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:48:00",
+                "estimated": "2021-12-08T14:48:00"
+              }
+            },
+            "variant": {
+              "key": "38-0-T",
+              "name": "Salter to Templeton & McPhillips"
+            },
+            "bus": {
+              "key": 853,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302562-7",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              }
+            },
+            "variant": {
+              "key": "38-0-T",
+              "name": "Salter to Templeton & McPhillips"
+            },
+            "bus": {
+              "key": 239,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302563-7",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:31:00",
+                "estimated": "2021-12-08T15:31:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:31:00",
+                "estimated": "2021-12-08T15:31:00"
+              }
+            },
+            "variant": {
+              "key": "38-0-T",
+              "name": "Salter to Templeton & McPhillips"
+            },
+            "bus": {
+              "key": 156,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302564-7",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:54:00",
+                "estimated": "2021-12-08T15:54:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:54:00",
+                "estimated": "2021-12-08T15:54:00"
+              }
+            },
+            "variant": {
+              "key": "38-0-T",
+              "name": "Salter to Templeton & McPhillips"
+            },
+            "bus": {
+              "key": 323,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 19,
+          "number": 19,
+          "name": "Route 19 Marion-Logan-Notre Dame",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 19,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18301448-36",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:06:00",
+                "estimated": "2021-12-08T14:06:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:06:00",
+                "estimated": "2021-12-08T14:06:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-N",
+              "name": "Marion-Logan-Notre Dame to Red River College via Notre Dame"
+            },
+            "bus": {
+              "key": 709,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301449-43",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:26:00",
+                "estimated": "2021-12-08T14:26:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:26:00",
+                "estimated": "2021-12-08T14:26:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-L",
+              "name": "Marion-Logan-Notre Dame to Red River College via Logan"
+            },
+            "bus": {
+              "key": 739,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301524-36",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:46:00",
+                "estimated": "2021-12-08T14:46:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:46:00",
+                "estimated": "2021-12-08T14:46:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-N",
+              "name": "Marion-Logan-Notre Dame to Red River College via Notre Dame"
+            },
+            "bus": {
+              "key": 752,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301395-43",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:00:00",
+                "estimated": "2021-12-08T15:00:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:00:00",
+                "estimated": "2021-12-08T15:00:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-L",
+              "name": "Marion-Logan-Notre Dame to Red River College via Logan"
+            },
+            "bus": {
+              "key": 136,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301396-36",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-N",
+              "name": "Marion-Logan-Notre Dame to Red River College via Notre Dame"
+            },
+            "bus": {
+              "key": 868,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301397-43",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:19:00",
+                "estimated": "2021-12-08T15:19:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:19:00",
+                "estimated": "2021-12-08T15:19:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-L",
+              "name": "Marion-Logan-Notre Dame to Red River College via Logan"
+            },
+            "bus": {
+              "key": 108,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301505-36",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:27:00",
+                "estimated": "2021-12-08T15:27:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:27:00",
+                "estimated": "2021-12-08T15:27:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-N",
+              "name": "Marion-Logan-Notre Dame to Red River College via Notre Dame"
+            },
+            "bus": {
+              "key": 403,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301528-43",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:35:00",
+                "estimated": "2021-12-08T15:35:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:35:00",
+                "estimated": "2021-12-08T15:35:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-L",
+              "name": "Marion-Logan-Notre Dame to Red River College via Logan"
+            },
+            "bus": {
+              "key": 609,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301529-36",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:44:00",
+                "estimated": "2021-12-08T15:44:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:44:00",
+                "estimated": "2021-12-08T15:44:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-N",
+              "name": "Marion-Logan-Notre Dame to Red River College via Notre Dame"
+            },
+            "bus": {
+              "key": 829,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301398-43",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:54:00",
+                "estimated": "2021-12-08T15:54:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:54:00",
+                "estimated": "2021-12-08T15:54:00"
+              }
+            },
+            "variant": {
+              "key": "19-0-L",
+              "name": "Marion-Logan-Notre Dame to Red River College via Logan"
+            },
+            "bus": {
+              "key": 368,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 50,
+          "number": 50,
+          "name": "Route 50 Archibald",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 50,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18303223-63",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:56:00",
+                "estimated": "2021-12-08T15:56:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:56:00",
+                "estimated": "2021-12-08T15:56:00"
+              }
+            },
+            "variant": {
+              "key": "50-1-D",
+              "name": "Archibald to University of Winnipeg"
+            },
+            "bus": {
+              "key": 542,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 21,
+          "number": 21,
+          "name": "Route 21 Portage Express",
+          "customer-type": "regular",
+          "coverage": "express",
+          "badge-label": 21,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "express"]
+            },
+            "background-color": "#eed700",
+            "border-color": "#cab700",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18301764-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:09:00",
+                "estimated": "2021-12-08T14:09:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:09:00",
+                "estimated": "2021-12-08T14:09:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-C",
+              "name": "Portage Express to Crestview"
+            },
+            "bus": {
+              "key": 801,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301765-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:19:00",
+                "estimated": "2021-12-08T14:19:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:19:00",
+                "estimated": "2021-12-08T14:19:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-S",
+              "name": "Portage Express to St.Charles"
+            },
+            "bus": {
+              "key": 730,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301766-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:29:00",
+                "estimated": "2021-12-08T14:29:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:29:00",
+                "estimated": "2021-12-08T14:29:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-W",
+              "name": "Portage Express to Westwood"
+            },
+            "bus": {
+              "key": 170,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301767-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:40:00",
+                "estimated": "2021-12-08T14:40:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:40:00",
+                "estimated": "2021-12-08T14:40:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-C",
+              "name": "Portage Express to Crestview"
+            },
+            "bus": {
+              "key": 303,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301768-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:50:00",
+                "estimated": "2021-12-08T14:50:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:50:00",
+                "estimated": "2021-12-08T14:50:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-S",
+              "name": "Portage Express to St.Charles"
+            },
+            "bus": {
+              "key": 153,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301769-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:00:00",
+                "estimated": "2021-12-08T15:00:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:00:00",
+                "estimated": "2021-12-08T15:00:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-W",
+              "name": "Portage Express to Westwood"
+            },
+            "bus": {
+              "key": 315,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301770-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:10:00",
+                "estimated": "2021-12-08T15:10:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-C",
+              "name": "Portage Express to Crestview"
+            },
+            "bus": {
+              "key": 854,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301771-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:19:00",
+                "estimated": "2021-12-08T15:19:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:19:00",
+                "estimated": "2021-12-08T15:19:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-S",
+              "name": "Portage Express to St.Charles"
+            },
+            "bus": {
+              "key": 616,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301772-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:28:00",
+                "estimated": "2021-12-08T15:28:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:28:00",
+                "estimated": "2021-12-08T15:28:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-W",
+              "name": "Portage Express to Westwood"
+            },
+            "bus": {
+              "key": 460,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301773-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:35:00",
+                "estimated": "2021-12-08T15:35:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:35:00",
+                "estimated": "2021-12-08T15:35:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-G",
+              "name": "Portage Express to Grace Hospital"
+            },
+            "bus": {
+              "key": 856,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301774-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:44:00",
+                "estimated": "2021-12-08T15:44:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:44:00",
+                "estimated": "2021-12-08T15:44:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-G",
+              "name": "Portage Express to Grace Hospital"
+            }
+          },
+          {
+            "key": "18301775-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:53:00",
+                "estimated": "2021-12-08T15:53:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-G",
+              "name": "Portage Express to Grace Hospital"
+            },
+            "bus": {
+              "key": 415,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18301776-4",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T16:00:00",
+                "estimated": "2021-12-08T16:00:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T16:00:00",
+                "estimated": "2021-12-08T16:00:00"
+              }
+            },
+            "variant": {
+              "key": "21-0-G",
+              "name": "Portage Express to Grace Hospital"
+            },
+            "bus": {
+              "key": 447,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 10,
+          "number": 10,
+          "name": "Route 10 St. Boniface-Wolseley",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 10,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18306595-22",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:10:31"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:11:00",
+                "estimated": "2021-12-08T14:10:31"
+              }
+            },
+            "variant": {
+              "key": "10-1-WT",
+              "name": "St. Boniface-Wolseley to Wolseley via Tache"
+            },
+            "bus": {
+              "key": 350,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18306617-24",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:47:00",
+                "estimated": "2021-12-08T14:47:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:47:00",
+                "estimated": "2021-12-08T14:47:00"
+              }
+            },
+            "variant": {
+              "key": "10-1-WP",
+              "name": "St. Boniface-Wolseley to Wolseley-Provencher via Provencher"
+            },
+            "bus": {
+              "key": 114,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18306596-22",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:15:00",
+                "estimated": "2021-12-08T15:15:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:15:00",
+                "estimated": "2021-12-08T15:15:00"
+              }
+            },
+            "variant": {
+              "key": "10-1-WT",
+              "name": "St. Boniface-Wolseley to Wolseley via Tache"
+            },
+            "bus": {
+              "key": 190,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18306597-24",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:38:00",
+                "estimated": "2021-12-08T15:38:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:38:00",
+                "estimated": "2021-12-08T15:38:00"
+              }
+            },
+            "variant": {
+              "key": "10-1-WP",
+              "name": "St. Boniface-Wolseley to Wolseley-Provencher via Provencher"
+            },
+            "bus": {
+              "key": 350,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18306598-22",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T16:01:00",
+                "estimated": "2021-12-08T16:01:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T16:01:00",
+                "estimated": "2021-12-08T16:01:00"
+              }
+            },
+            "variant": {
+              "key": "10-1-WT",
+              "name": "St. Boniface-Wolseley to Wolseley via Tache"
+            },
+            "bus": {
+              "key": 786,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      },
+      {
+        "route": {
+          "key": 43,
+          "number": 43,
+          "name": "Route 43 Munroe",
+          "customer-type": "regular",
+          "coverage": "regular",
+          "badge-label": 43,
+          "badge-style": {
+            "class-names": {
+              "class-name": ["badge-label", "regular"]
+            },
+            "background-color": "#ffffff",
+            "border-color": "#d9d9d9",
+            "color": "#000000"
+          }
+        },
+        "scheduled-stops": [
+          {
+            "key": "18302752-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T14:36:00",
+                "estimated": "2021-12-08T14:36:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T14:36:00",
+                "estimated": "2021-12-08T14:36:00"
+              }
+            },
+            "variant": {
+              "key": "43-1-D",
+              "name": "Munroe to Assiniboine"
+            },
+            "bus": {
+              "key": 879,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          },
+          {
+            "key": "18302753-46",
+            "cancelled": "false",
+            "times": {
+              "arrival": {
+                "scheduled": "2021-12-08T15:20:00",
+                "estimated": "2021-12-08T15:20:00"
+              },
+              "departure": {
+                "scheduled": "2021-12-08T15:20:00",
+                "estimated": "2021-12-08T15:20:00"
+              }
+            },
+            "variant": {
+              "key": "43-1-D",
+              "name": "Munroe to Assiniboine"
+            },
+            "bus": {
+              "key": 104,
+              "bike-rack": "false",
+              "wifi": "false"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "query-time": "2021-12-08T14:01:13"
+}
