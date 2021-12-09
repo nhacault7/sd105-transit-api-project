@@ -13,15 +13,18 @@ const getStreets = (query) => {
 
 const handleSearchInput = (e) => {
   e.preventDefault();
-  const query = e.target[0].value;
-  getStreets(query).then((streets) => {
-    streetsEl.innerHTML = '';
-    streets.forEach((street) => {
-      streetsEl.insertAdjacentHTML('beforeend', 
-      `<a href="#" data-street-keys=${street.key}>${street.name}</a>`
-      );
+  if (e.target[0].value !== ' ') {
+    const query = e.target[0].value;
+    getStreets(query).then((streets) => {
+      streetsEl.innerHTML = '';
+      streets.forEach((street) => {
+        streetsEl.insertAdjacentHTML('beforeend', 
+        `<a href="#" data-street-keys=${street.key}>${street.name}</a>`
+        );
+      });
     });
-  });
+  }
+  
 }
 
 searchInput.addEventListener('submit', handleSearchInput);
