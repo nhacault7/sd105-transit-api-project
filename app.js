@@ -41,6 +41,10 @@ const handleSearchForm = (e) => {
   }
 };
 
+const formatTime = (dateString) => {
+  return dayjs(dateString).format('HH:mm A');
+}
+
 const insertScheduleRowHTML = (scheduleObject) => {
   const {stopName, crossStreet, direction, busNum, time} = scheduleObject;
   tableBodyEl.insertAdjacentHTML('beforeend',
@@ -49,7 +53,7 @@ const insertScheduleRowHTML = (scheduleObject) => {
       <td>${crossStreet}</td>
       <td>${direction}</td>
       <td>${busNum}</td>
-      <td>${time}</td>
+      <td>${formatTime(time)}</td>
     </tr>
   `);
 };
