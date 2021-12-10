@@ -1,5 +1,5 @@
 const streetsEl = document.querySelector('.streets');
-const searchInput = document.forms[0];
+const searchForm = document.forms[0];
 
 const apiKey = '7Pc5IOnW-KChC5e61pcR';
 const baseURL = 'https://api.winnipegtransit.com/v3/';
@@ -13,12 +13,16 @@ const getStreets = (query) => {
 
 // https://api.winnipegtransit.com/v3/stops.json?api-key=7Pc5IOnW-KChC5e61pcR&street=2903
 const getStops = (streetKey) => {
-  return fetch(`${baseURL}streets.json?api-key=${apiKey}&street=${streetKey}`)
+  return fetch(`${baseURL}stops.json?api-key=${apiKey}&street=${streetKey}`)
     .then((response) => response.json())
     .then((data) => data.stops);
 };
 
-const handleSearchInput = (e) => {
+const getStopSchedule = (stopKey) => {
+  console.log(stopKey);
+};
+
+const handleSearchForm = (e) => {
   e.preventDefault();
   if (e.target[0].value !== ' ') {
     const query = e.target[0].value;
@@ -31,6 +35,16 @@ const handleSearchInput = (e) => {
       });
     });
   }
-}
+};
 
-searchInput.addEventListener('submit', handleSearchInput);
+const handleStreetClick = (e) => {
+  const streetKey = e.target.dataset.streetKeys;
+  getStops(streetKey).then((stops) => {
+    stops.forEach((stop) => {
+      getStopSchedule(stop.key);
+    });
+  });
+};
+
+searchForm.addEventListener('submit', handleSearchForm);
+streetsEl.addEventListener('click', handleStreetClick);
