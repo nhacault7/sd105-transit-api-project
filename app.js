@@ -18,8 +18,11 @@ const getStops = (streetKey) => {
     .then((data) => data.stops);
 };
 
+// https://api.winnipegtransit.com/v3/stops/10064/schedule.json?api-key=7Pc5IOnW-KChC5e61pcR
 const getStopSchedule = (stopKey) => {
-  console.log(stopKey);
+  return fetch(`${baseURL}stops/${stopKey}/schedule.json?api-key=${apiKey}`)
+    .then((response) => response.json())
+    .then((data) => console.log(data));
 };
 
 const handleSearchForm = (e) => {
