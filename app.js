@@ -1,5 +1,6 @@
 const streetsEl = document.querySelector('.streets');
 const searchForm = document.forms[0];
+const tableBodyEl = document.querySelector('tbody');
 
 const apiKey = '7Pc5IOnW-KChC5e61pcR';
 const baseURL = 'https://api.winnipegtransit.com/v3/';
@@ -22,7 +23,7 @@ const getStops = (streetKey) => {
 const getStopSchedule = (stopKey) => {
   return fetch(`${baseURL}stops/${stopKey}/schedule.json?api-key=${apiKey}`)
     .then((response) => response.json())
-    .then((data) => console.log(data));
+    .then((data) => data['stop-schedule']);
 };
 
 const handleSearchForm = (e) => {
@@ -40,11 +41,44 @@ const handleSearchForm = (e) => {
   }
 };
 
+const insertScheduleRowHTML = (scheduleObject) => {
+  const {stopName, crossStreet, direction, busNum, time} = scheduleObject;
+  tableBodyEl.insertAdjacentHTML('beforeend',
+    `<tr>
+      <td>${stopName}</td>
+      <td>${crossStreet}</td>
+      <td>${direction}</td>
+      <td>${busNum}</td>
+      <td>${time}</td>
+    </tr>
+  `);
+};
+
+const createScheduleObj = (schedule, index) => {
+  return {
+    stopName: schedule.stop.name, 
+    crossStreet: schedule.stop['cross-street'].name, 
+    direction: schedule.stop.direction, 
+    busNum: schedule['route-schedules'][index].route.number, 
+    time: schedule['route-schedules'][index]['scheduled-stops'][0].times.departure.estimated,
+  };
+};
+
+
 const handleStreetClick = (e) => {
   const streetKey = e.target.dataset.streetKeys;
   getStops(streetKey).then((stops) => {
+    const schedules = [];
     stops.forEach((stop) => {
-      getStopSchedule(stop.key);
+      schedules.push(getStopSchedule(stop.key));
+    });
+    Promise.all(schedules).then((stopSchedule) => {
+      tableBodyEl.innerHTML = '';
+      stopSchedule.forEach((schedule) => {
+        schedule['route-schedules'].forEach((route, index) => {
+          insertScheduleRowHTML(createScheduleObj(schedule, index));
+        });
+      });
     });
   });
 };
